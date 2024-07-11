@@ -7,7 +7,6 @@ Welcome to the Password Manager project!  The Password Manager is a simple React
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contact](#contact)
 
 ## Introduction
