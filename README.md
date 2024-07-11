@@ -49,16 +49,6 @@ To get started with the Password Manager, follow these steps:
 
 The application should now be running on `http://localhost:3000`.
 
-## Usage
-
-Once the development server is running, you can start using the Password Manager:
-
-1. **Register**: Create a new account.
-2. **Login**: Use your credentials to log in.
-3. **Add Passwords**: Save new passwords along with relevant details.
-4. **View Passwords**: View your stored passwords.
-5. **Generate Passwords**: Use the built-in password generator for strong passwords.
-6. **Search Passwords**: Use the search feature to find specific passwords quickly.
 
 
 
